@@ -1,0 +1,1 @@
+// real content from EffectComposer.js
