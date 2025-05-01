@@ -6,7 +6,6 @@ import { RenderPass } from './libs/RenderPass.js';
 import { UnrealBloomPass } from './libs/UnrealBloomPass.js';
 import GUI from './libs/lil-gui.module.js';
 
-
 import { loadDNA } from './simulation.js';
 
 const scene = new THREE.Scene();
