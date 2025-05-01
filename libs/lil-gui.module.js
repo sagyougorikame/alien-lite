@@ -1,5 +1,1 @@
-
-export default class GUI {
-  add() { return this; }
-  name() { return this; }
-}
+// full content of lil-gui.module.js
