@@ -1,1 +1,5 @@
-// real content from lil-gui.module.js
+
+export default class GUI {
+  add() { return this; }
+  name() { return this; }
+}
