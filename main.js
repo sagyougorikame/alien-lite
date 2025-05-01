@@ -19,7 +19,6 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
 const controls = new OrbitControls(camera, renderer.domElement);
-
 const ambient = new THREE.AmbientLight(0xffffff, 1);
 scene.add(ambient);
 
